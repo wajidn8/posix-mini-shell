@@ -1,0 +1,9 @@
+# Compiled binaries
+myshell
+a.out
+
+# Object files
+*.o
+
+# Other compiled executables
+*.exe
